@@ -14,6 +14,7 @@ Training data is generated on the fly during the trainig process.
 The image of the digit is combined with the background. 
 Color is adjusted, shadow and glow are added. Noise is applied. 
 The image of the digit and the final image are scaled down and up to degrade quality.
+
 <img src="train_dataset_generator.png"/>
 <img src="train_dataset_examples.png">
 
