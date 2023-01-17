@@ -1,7 +1,7 @@
 
 # Tyre DOT digits classification using synthetic data generator
 
-The project is a continuation of the engineering thesis. The goal was to recognize wheel parameters. The distribution of data in the prepared image database was uneven, so the first approach was to train a neural network using a synthetic data generator following the idea from this publication (https://core.ac.uk/download/pdf/286712293.pdf). Then this approach failed and real images were used to achieve adequate results. In this project, I explore the possibility of using artificially generated data to train neural networks to recognize tire markings. To get started, the problem has been simplified to digit classification.
+The project is a continuation of the engineering thesis. The goal was to recognize wheel parameters. The distribution of data in the prepared image database was uneven, so the first approach was to train a neural network using a synthetic data generator following the idea from this publication (https://core.ac.uk/download/pdf/286712293.pdf). Then this approach failed and real images were used to achieve adequate results. In this project, I explore the possibility of using artificially generated data to train neural networks to recognize tyre markings. To get started, the problem has been simplified to digit classification.
 
 
 ## Dataset
