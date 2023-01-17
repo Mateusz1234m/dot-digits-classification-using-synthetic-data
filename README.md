@@ -31,7 +31,7 @@ of poor quality and low contrast.
 
 ## Used tools
 - PyTorch
-- Python Image Library (PIL)
+- Python Imaging Library (PIL)
 - numpy
 - Matplotlib
 
